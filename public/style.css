@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
+body {
+    padding-top: 40px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold
+}
+
+a:hover{
+    text-decoration: none
+}
+
+.well{
+   margin: 0px auto !important; 
+}
+
+li{
+    font-size: 22px;
+}
+ul{
+    border-left: 3px solid lightgrey;
+}
